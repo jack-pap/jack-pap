@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+[<img src="https://user-images.githubusercontent.com/62362994/166337428-6386db21-e25e-4d0f-8f6e-c27941271dca.jpg" width="60" height="60">](https://www.linkedin.com/in/jack-papaioannou-b073251b3/) [<img src="https://user-images.githubusercontent.com/62362994/166337425-52d326f3-db94-4e75-96e7-6166ce38e050.png" width="60" height="60">](https://open.spotify.com/user/djpentakill?si=9d11e8c18d744ad8)
+
+
+
 <!--
 **jack-pap/jack-pap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
