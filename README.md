@@ -1,14 +1,13 @@
 <h1 align="center">:space_invader:	About me :space_invader:	</h1>
 
-:blue_heart: Education: Currently at &nbsp;
+:comet:	Education: Currently at &nbsp;
 <img src="https://user-images.githubusercontent.com/62362994/166346183-1696e715-0d39-4a79-b36e-80fe15921b71.jpg" height="40">   
 
+:crystal_ball: Interests: Game Development, Cyber Security, Front End Development 
 
-:purple_heart: Interests: Game Development, Cyber Security, Front End Development 
+:comet:	Hobbies: Gym, Street Fashion and Gaming 
 
-:blue_heart: Hobbies: Gym, Street Fashion and Gaming 
-
-:purple_heart: Favorite Games: League of Legends, Dark Souls 3, Sekiro : Shadow's Die Twice, Elden Ring
+:crystal_ball: Favorite Games: League of Legends, Dark Souls 3, Sekiro : Shadow's Die Twice, Elden Ring
 
 
 <!-- :blue_heart:	Unordered sub-list. 
