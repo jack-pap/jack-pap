@@ -1,40 +1,49 @@
-<h1 align="center">About me</h1>
+<h1 align="center">:space_invader:	About me :space_invader:	</h1>
 
-<h1 align="center">Projects</h1>
+:blue_heart: Education: Currently at &nbsp;
+<img src="https://user-images.githubusercontent.com/62362994/166346183-1696e715-0d39-4a79-b36e-80fe15921b71.jpg" height="40">   
+
+
+:purple_heart: Interests: Game Development, Cyber Security, Front End Development 
+
+:blue_heart: Hobbies: Gym, Street Fashion and Gaming 
+
+:purple_heart: Favorite Games: League of Legends, Dark Souls 3, Sekiro : Shadow's Die Twice, Elden Ring
+
+
+<!-- :blue_heart:	Unordered sub-list. 
+
+:purple_heart: Unordered sub-list. -->
+
+
+
+<h1 align="center">:hammer_and_wrench: Projects	:hammer_and_wrench:</h1>
 
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=TetrECS&theme=tokyonight )](https://github.com/jack-pap/TetrECS)
   
 
-<h1 align="center">Stats</h1>
+<h1 align="center">	:mag_right: Stats :mag_right:</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-pap&count_private=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-pap&layout=compact&count_private=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">My Links</h1>
+<h1 align="center">:link: My Links :link:</h1>
+
+<!-- [<img src="https://user-images.githubusercontent.com/62362994/166345423-88611808-0cc2-496c-8e39-753079c00363.png" width="150" >](https://open.spotify.com/user/djpentakill?si=9d11e8c18d744ad8) -->
 
 <p align="center">
  <a href="https://www.linkedin.com/in/jack-papaioannou-b073251b3/">
-<img src="https://user-images.githubusercontent.com/62362994/166337428-6386db21-e25e-4d0f-8f6e-c27941271dca.jpg" width="130>
+<img src="https://user-images.githubusercontent.com/62362994/166345038-a807a7c2-dc56-4472-84af-2cdda1a0a234.png" width="100>
+                                                                                                                     
 </a>
-</p>                                                                           
-
-[<img src="https://user-images.githubusercontent.com/62362994/166337425-52d326f3-db94-4e75-96e7-6166ce38e050.png" width="130" >](https://open.spotify.com/user/djpentakill?si=9d11e8c18d744ad8)
+</p>
+                                                                                                                        
+                                                                                                                     
+[<img src="https://user-images.githubusercontent.com/62362994/166345029-65eb7843-232a-498c-b1f2-db88e8ce15e9.png" width="100" >](https://open.spotify.com/user/djpentakill?si=9d11e8c18d744ad8)
 
                                                                
-<!--
-**jack-pap/jack-pap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          
+                                                   
