@@ -7,9 +7,7 @@
 
 :comet: Trying to learn: [Flutter](https://flutter.dev/), Web Development
 
-:crystal_ball:	Hobbies: Gym, Street Fashion and Gaming 
-
-:comet: Favorite Games: League of Legends, Dark Souls 3, Sekiro : Shadow's Die Twice, Elden Ring
+:crystal_ball:	Hobbies: Gym, Street Fashion and Game Industry News 
 
 
 <!-- :blue_heart:	Unordered sub-list. 
