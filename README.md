@@ -31,18 +31,21 @@
 
 <h1 align="center">:link: My Links :link:</h1>
 
-<!-- [<img src="https://user-images.githubusercontent.com/62362994/166345423-88611808-0cc2-496c-8e39-753079c00363.png" width="150" >](https://open.spotify.com/user/djpentakill?si=9d11e8c18d744ad8) -->
 
 <p align="center">
- <a href="https://www.linkedin.com/in/jack-papaioannou-b073251b3/">
-<img src="https://user-images.githubusercontent.com/62362994/166345038-a807a7c2-dc56-4472-84af-2cdda1a0a234.png" width="100>
-</a>     
+  <a href="https://www.linkedin.com/in/jack-papaioannou-b073251b3/">
+    <img src="https://user-images.githubusercontent.com/62362994/166345038-a807a7c2-dc56-4472-84af-2cdda1a0a234.png" width="100" >
 
-<b href="https://open.spotify.com/user/djpentakill?si=9d11e8c18d744ad8">
-<img src="https://user-images.githubusercontent.com/62362994/166345029-65eb7843-232a-498c-b1f2-db88e8ce15e9.png" width="100" >
-</b>
+  <a href="https://open.spotify.com/user/djpentakill?si=9d11e8c18d744ad8">
+    <img src="https://user-images.githubusercontent.com/62362994/166345029-65eb7843-232a-498c-b1f2-db88e8ce15e9.png" width="100" >
+  
 </p>
-                                                                                                                        
+
+ 
+                                                                                                                             
+            
+                                                                                                                            
+                                                                                                             
                                                                                                                      
 
 
