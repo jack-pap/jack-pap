@@ -1,4 +1,4 @@
-<h1 align="left">:space_invader:	About me 	</h1>
+<h1 align="left">:wave:	About me 	</h1>
 
 :comet:	Education: Currently at &nbsp;
 <img src="https://user-images.githubusercontent.com/62362994/166346183-1696e715-0d39-4a79-b36e-80fe15921b71.jpg" height="40">   
