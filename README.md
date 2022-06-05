@@ -1,14 +1,21 @@
 <h1 align="left">:wave:	About me 	</h1>
 
+<h3>
 :comet:	Education: Currently at &nbsp;
 <img src="https://user-images.githubusercontent.com/62362994/166346183-1696e715-0d39-4a79-b36e-80fe15921b71.jpg" height="40">   
+</h3>
 
+<h3>
 :crystal_ball: Interests: Game Development, Cyber Security, Front End Development 
+</h3>
 
-:comet: Trying to learn: [Flutter](https://flutter.dev/), Web Development
+<h3>
+:comet: Trying to learn: <a href="https://flutter.dev/"> Flutter</a>, Web Development
+</h3>
 
+<h3>
 :crystal_ball:	Hobbies: Gym, Street Fashion and Game Industry News 
-
+</h3>
 
 <!-- :blue_heart:	Unordered sub-list. 
 
