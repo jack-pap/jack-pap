@@ -6,7 +6,7 @@
 </h3>
 
 <h3>
-:crystal_ball: Interests: Game Development, Cyber Security, Front End Development 
+:crystal_ball: Interests: Game Development, Cyber Security, Front End Development, Coding 
 </h3>
 
 <h3>
