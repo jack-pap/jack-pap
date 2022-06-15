@@ -28,7 +28,7 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=TetrECS&theme=tokyonight )](https://github.com/jack-pap/TetrECS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=Riot-JSON-File-Reading&theme=tokyonight )](https://github.com/jack-pap/Riot-JSON-File-Reading)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=Riot-Data-Processing&theme=tokyonight )](https://github.com/jack-pap/Riot-Data-Processing)
 
   
 
