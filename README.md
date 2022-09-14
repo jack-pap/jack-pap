@@ -30,7 +30,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=Riot-Data-Processing&theme=tokyonight )](https://github.com/jack-pap/Riot-Data-Processing)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=Riot-Data-Processing&theme=tokyonight )](https://github.com/jack-pap/personal-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=personal-website&theme=tokyonight )](https://github.com/jack-pap/personal-website)
 
 
 
