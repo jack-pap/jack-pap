@@ -11,7 +11,7 @@ doing Computer Science (MEng)
 </h3>
 
 <h3>
-:comet: Trying to learn: <a href="https://flutter.dev/"> Flutter</a>, Web Development
+:comet: Trying to learn: Memory Forensics, Mobile Game Development, Chess
 </h3>
 
 <h3>
