@@ -15,7 +15,7 @@ doing Computer Science (MEng)
 </h3>
 
 <h3>
-:crystal_ball:	Hobbies: Gym, Street Fashion and Game Industry News 
+:crystal_ball:	Hobbies: Gym, Street Fashion and Game Development News 
 </h3>
 
 <!-- :blue_heart:	Unordered sub-list. 
