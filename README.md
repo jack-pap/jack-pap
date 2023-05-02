@@ -34,8 +34,9 @@ doing Computer Science (MEng)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=personal-website&theme=tokyonight )](https://github.com/jack-pap/personal-website)
 
 
+<h1 align="left">:hammer_and_wrench: Skills	</h1>
 
-  
+[![My Skills](https://skillicons.dev/icons?i=github,git,java,haskell,unity,cs,python,vim)](https://skillicons.dev)
 
 <h1 align="left">	:mag_right: Stats </h1>
 
