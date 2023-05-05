@@ -7,7 +7,7 @@ doing Computer Science (MEng)
 </h3>
 
 <h3>
-:crystal_ball: Interests: Game Development, Cyber Security, Front End Development, Coding 
+:comet: Interests: Game Development, Cyber Security, Front End Development, Coding 
 </h3>
 
 <h3>
@@ -15,7 +15,7 @@ doing Computer Science (MEng)
 </h3>
 
 <h3>
-:crystal_ball:	Hobbies: Gym, Street Fashion and Game Development News 
+:comet:	Hobbies: Gym, Street Fashion and Game Development News 
 </h3>
 
 <!-- :blue_heart:	Unordered sub-list. 
