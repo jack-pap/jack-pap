@@ -7,15 +7,15 @@ doing Computer Science (MEng)
 </h3>
 
 <h3>
-:comet: Interests: Game Development, Cyber Security, Front End Development, Coding 
+:comet: Interests: Game Development, Cyber Security, Front End Development, Coding challenges 
 </h3>
 
 <h3>
-:comet: Trying to learn: Memory Forensics, Mobile Game Development, Chess
+:comet: Trying to learn: Memory Forensics, Mobile Game Development, Game engine programming, Chess
 </h3>
 
 <h3>
-:comet:	Hobbies: Gym, Street Fashion and Game Development News 
+:comet:	Hobbies: Gym, Street Fashion and Game Development 
 </h3>
 
 <!-- :blue_heart:	Unordered sub-list. 
