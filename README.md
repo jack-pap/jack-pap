@@ -11,7 +11,7 @@ doing Computer Science (MEng)
 </h3>
 
 <h3>
-:comet: Trying to learn: Memory Forensics, Mobile Game Development, Game engine programming, Chess
+:comet: Trying to learn: Memory Forensics, 3D Game Development, Game engine programming
 </h3>
 
 <h3>
