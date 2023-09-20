@@ -1,6 +1,6 @@
 <h2 align="left">:wave:	About me 	</h2>
 
-- **Education:**  Currently at *University of Southampton doing Computer Science (MEng)*
+- **Education:**  Currently studying Computer Science (MEng) at [*University of Southampton*](https://www.southampton.ac.uk/)
 - **Interests:** Game Development, Cyber Security, Front End Development, Coding challenges 
 
 
