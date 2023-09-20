@@ -1,22 +1,12 @@
-<h1 align="left">:wave:	About me 	</h1>
+<h2 align="left">:wave:	About me 	</h2>
 
-<h3>
-:comet:	Education: Currently at&nbsp;
-<img src="https://user-images.githubusercontent.com/62362994/166346183-1696e715-0d39-4a79-b36e-80fe15921b71.jpg" height="40">   
-doing Computer Science (MEng)
-</h3>
+- **Education:**  Currently at *University of Southampton doing Computer Science (MEng)*
+- **Interests:** Game Development, Cyber Security, Front End Development, Coding challenges 
 
-<h3>
-:comet: Interests: Game Development, Cyber Security, Front End Development, Coding challenges 
-</h3>
 
-<h3>
-:comet: Trying to learn: Memory Forensics, 3D Game Development, Game engine programming
-</h3>
+- **Trying to learn:** Memory Forensics, Unity Fishnet Networking, 3D Game Design, Game engine programming
 
-<h3>
-:comet:	Hobbies: Gym, Street Fashion and Game Development 
-</h3>
+- **Hobbies:** Gym, Street Fashion
 
 <!-- :blue_heart:	Unordered sub-list. 
 
@@ -24,33 +14,33 @@ doing Computer Science (MEng)
 
 
 
-<h1 align="left">:hammer_and_wrench: Projects	</h1>
+<h2 align="left">:hammer_and_wrench: Projects	</h2>
 
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=TetrECS&theme=tokyonight )](https://github.com/jack-pap/TetrECS)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=Riot-Data-Processing&theme=tokyonight )](https://github.com/jack-pap/Riot-Data-Processing)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=personal-website&theme=tokyonight )](https://github.com/jack-pap/personal-website)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=personal-website&theme=tokyonight )](https://github.com/jack-pap/personal-website) -->
 
 
-<h1 align="left">:hammer_and_wrench: Skills	</h1>
+<h2 align="left">:hammer_and_wrench: Skills	</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,java,haskell,unity,cs,python,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,java,haskell,unity,cs,python)](https://skillicons.dev)
 
-<h1 align="left">	:mag_right: Stats </h1>
+<h2 align="left">	:mag_right: Stats </h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-pap&count_private=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-pap&layout=compact&count_private=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="left">:link: My Links </h1>
+<h2 align="left">:link: My Links </h2>
 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jack-papaioannou-b073251b3/">
-    <img src="https://user-images.githubusercontent.com/62362994/166345038-a807a7c2-dc56-4472-84af-2cdda1a0a234.png" width="100" >
+    <img src="https://user-images.githubusercontent.com/62362994/166345038-a807a7c2-dc56-4472-84af-2cdda1a0a234.png" width="80" >
 
  <!-- <a href="https://open.spotify.com/user/djpentakill?si=9d11e8c18d744ad8">
     <img src="https://user-images.githubusercontent.com/62362994/166345029-65eb7843-232a-498c-b1f2-db88e8ce15e9.png" width="100" >
