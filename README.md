@@ -19,6 +19,8 @@
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=TetrECS&theme=tokyonight )](https://github.com/jack-pap/TetrECS)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=cheat-detection-tool&theme=tokyonight )](https://github.com/jack-pap/cheat-detection-tool)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=Riot-Data-Processing&theme=tokyonight )](https://github.com/jack-pap/Riot-Data-Processing)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=personal-website&theme=tokyonight )](https://github.com/jack-pap/personal-website) -->
