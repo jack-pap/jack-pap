@@ -4,9 +4,8 @@
 - **Interests:** Game Development, Cyber Security, Front End Development, Coding challenges 
 
 
-- **Trying to learn:** Memory Forensics, Unity Fishnet Networking, 3D Game Design, Game engine programming
-
-- **Hobbies:** Gym, Street Fashion
+- **Trying to learn:** Unity Fishnet Networking, 3D Game Design, React
+- **Hobbies:** Gym, Street Fashion, Philosophy and Self-Improvement literature
 
 <!-- :blue_heart:	Unordered sub-list. 
 
