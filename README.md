@@ -2,10 +2,9 @@
 
 - **Education:**  Currently studying Computer Science (MEng) at [*University of Southampton*](https://www.southampton.ac.uk/)
 - **Interests:** Game Development, Cyber Security, Front End Development, Coding challenges 
-
-
 - **Trying to learn:** Unity Fishnet Networking, 3D Game Design, React
-- **Hobbies:** Gym, Street Fashion, Philosophy and Self-Improvement literature
+- **Hobbies:** Gym, Street Fashion, non-fictional literature (Philosophy and Self-Improvement)
+- **Currently Reading:** [Atomic Habits](https://jamesclear.com/atomic-habits)
 
 <!-- :blue_heart:	Unordered sub-list. 
 
