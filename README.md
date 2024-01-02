@@ -14,7 +14,7 @@
 
 <h2 align="left">:hammer_and_wrench: Projects	</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=TetrECS&theme=tokyonight )](https://github.com/jack-pap/Summoners-Card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=Summoners-Card&theme=tokyonight )](https://github.com/jack-pap/Summoners-Card)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=TetrECS&theme=tokyonight )](https://github.com/jack-pap/TetrECS)
 
