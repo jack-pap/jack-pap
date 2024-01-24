@@ -4,7 +4,7 @@
 - **Interests:** Game Development, Cyber Security, Front End Development, Coding challenges 
 - **Trying to learn:** Unity Fishnet Networking, 3D Game Design, React
 - **Hobbies:** Gym, Street Fashion, non-fictional literature (Philosophy and Self-Improvement)
-- **Currently Reading:** [Atomic Habits](https://jamesclear.com/atomic-habits)
+- **Currently Reading:** [Meditations]([https://jamesclear.com/atomic-habits](https://www.goodreads.com/book/show/30659.Meditations))
 
 <!-- :blue_heart:	Unordered sub-list. 
 
