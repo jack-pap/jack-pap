@@ -27,7 +27,7 @@
 
 <h2 align="left">:hammer_and_wrench: Skills	</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,java,haskell,unity,cs,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,java,haskell,unity,cs,javascript,python)](https://skillicons.dev)
 
 <h2 align="left">	:mag_right: Stats </h2>
 
