@@ -1,8 +1,8 @@
 <h2 align="left">:wave:	About me 	</h2>
 
-- **Education:**  Currently studying Computer Science (MEng) at [*University of Southampton*](https://www.southampton.ac.uk/)
+- **Education:**  Currently studying Computer Science (MEng) with Cyber Security at [*University of Southampton*](https://www.southampton.ac.uk/)
 - **Interests:** Game Development, Cyber Security, Front End Development, Coding challenges 
-- **Trying to learn:** Unity Fishnet Networking, 3D Game Design, React
+- **Trying to learn:** Photon Unity Networking, Procedural generation in level design, 3D Game Design, React
 - **Hobbies:** Gym, Street Fashion, non-fictional literature (Philosophy and Self-Improvement)
 - **Currently Reading:** [48 Laws of Power](https://www.amazon.co.uk/Laws-Power-Robert-Greene-Collection/dp/1861972784)
 
@@ -27,7 +27,7 @@
 
 <h2 align="left">:hammer_and_wrench: Skills	</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,java,haskell,unity,cs,javascript,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,java,cs,c,html,css,javascript,python,haskell,unity,react&perline=4)](https://skillicons.dev)
 
 <h2 align="left">	:mag_right: Stats </h2>
 
