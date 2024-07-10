@@ -1,8 +1,8 @@
 <h2 align="left">:wave:	About me 	</h2>
 
-- **Education:**  Currently studying Computer Science (MEng) with Cyber Security at [*University of Southampton*](https://www.southampton.ac.uk/)
-- **Interests:** Game Development, Cyber Security, Front End Development, Coding challenges 
-- **Trying to learn:** Photon Unity Networking, Procedural generation in level design, 3D Game Design, React
+- **Education:**  Computer Science (MEng) with Cyber Security graduate from the [*University of Southampton*](https://www.southampton.ac.uk/) with a First Class Honours degree
+- **Interests:** Game Development, Cyber Security, Front End Development, Software Development, Coding challenges 
+- **Trying to learn:** Photon Unity Networking, 3D Game Design, React
 - **Hobbies:** Gym, Street Fashion, non-fictional literature (Philosophy and Self-Improvement)
 - **Currently Reading:** [48 Laws of Power](https://www.amazon.co.uk/Laws-Power-Robert-Greene-Collection/dp/1861972784)
 
