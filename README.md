@@ -2,9 +2,9 @@
 
 - **Education:**  Computer Science (MEng) with Cyber Security graduate from the [*University of Southampton*](https://www.southampton.ac.uk/) with a First Class Honours degree
 - **Interests:** Game Development, Cyber Security, Front End Development, Software Development, Coding challenges 
-- **Trying to learn:** Photon Unity Networking, 3D Game Design, React
+- **Trying to learn:** Relational databases, 3D Game Design, React
 - **Hobbies:** Gym, Street Fashion, non-fictional literature (Philosophy and Self-Improvement)
-- **Currently Reading:** [48 Laws of Power](https://www.amazon.co.uk/Laws-Power-Robert-Greene-Collection/dp/1861972784)
+- **Currently Reading:** [The Last Lecture](https://www.amazon.co.uk/Last-Lecture-Achieving-Childhood-Lessons/dp/0340978503)
 
 <!-- :blue_heart:	Unordered sub-list. 
 
@@ -14,13 +14,13 @@
 
 <h2 align="left">:hammer_and_wrench: Projects	</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=Summoners-Card&theme=tokyonight )](https://github.com/jack-pap/Summoners-Card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=Summoners-Card&theme=dark )](https://github.com/jack-pap/Summoners-Card)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=TetrECS&theme=tokyonight )](https://github.com/jack-pap/TetrECS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=TetrECS&theme=dark )](https://github.com/jack-pap/TetrECS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=cheat-detection-tool&theme=tokyonight )](https://github.com/jack-pap/cheat-detection-tool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=cheat-detection-tool&theme=dark )](https://github.com/jack-pap/cheat-detection-tool)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=Riot-Data-Processing&theme=tokyonight )](https://github.com/jack-pap/Riot-Data-Processing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=Riot-Data-Processing&theme=dark )](https://github.com/jack-pap/Riot-Data-Processing)
 
 <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=personal-website&theme=tokyonight )](https://github.com/jack-pap/personal-website) -->
 
@@ -31,10 +31,10 @@
 
 <h2 align="left">	:mag_right: Stats </h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-pap&count_private=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-pap&count_private=true&theme=dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-pap&layout=compact&count_private=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-pap&layout=compact&count_private=true&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="left">:link: My Links </h2>
 
