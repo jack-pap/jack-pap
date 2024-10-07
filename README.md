@@ -31,6 +31,8 @@
 
 <h2 align="left">	:mag_right: Stats </h2>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jack-pap&theme=dark)](https://git.io/streak-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-pap&count_private=true&theme=dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
