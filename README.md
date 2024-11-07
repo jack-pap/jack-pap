@@ -4,7 +4,7 @@
 - **Interests:** Game Development, Cyber Security, Front End Development, Software Development, Coding challenges 
 - **Trying to learn:** Relational databases, 3D Game Design, React
 - **Hobbies:** Gym, Street Fashion, non-fictional literature (Philosophy and Self-Improvement)
-- **Currently Reading:** [The Last Lecture](https://www.amazon.co.uk/Last-Lecture-Achieving-Childhood-Lessons/dp/0340978503)
+- **Currently Reading:** [Stillness is the Key: An Ancient Strategy for Modern Life](https://www.amazon.co.uk/Stillness-Key-Ancient-Strategy-Modern/dp/1788162064?crid=3HFIJDL5Z650B&dib=eyJ2IjoiMSJ9.xeMCCn3Sp2jX-eE7xTRtm6eSb7dDic5kcJVuv3vkvSdX4dUg30S_4cqED2xsQaRFkXqR78gcq1lqetDvkrvZt9dohSQlvENTgmi6X-CAd86liHhYXTtcJpkFrpk2-sfyJU_50swoMXyPClTvSZVUJ_PcTTMp9GXJfRc2La7vNCdebwrJc_hefd3pZe9CQlsCHGgRjybL1CcBbBlgOa52PMNPZ-ZrsQe9CAQKQD_y2f0.5ygpjTFTr5nA03ojluC3aLBQcvv0I9s4OVQTEfV9fow&dib_tag=se&keywords=stillness+is+the+key&nsdOptOutParam=true&qid=1731003843&sprefix=stillness+is+the+ke%2Caps%2C248&sr=8-1)
 
 <!-- :blue_heart:	Unordered sub-list. 
 
@@ -27,7 +27,7 @@
 
 <h2 align="left">:hammer_and_wrench: Skills	</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,java,cs,c,html,css,javascript,python,haskell,unity,react&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,python,haskell,c,javascript,html,css,react,express,next,jest,mysql,aws,vercel,unity,git&perline=4)](https://skillicons.dev)
 
 <h2 align="left">	:mag_right: Stats </h2>
 
@@ -35,21 +35,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-pap&count_private=true&theme=dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-pap&layout=compact&count_private=true&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
-
-<h2 align="left">:link: My Links </h2>
-
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jack-papaioannou-b073251b3/">
-    <img src="https://user-images.githubusercontent.com/62362994/166345038-a807a7c2-dc56-4472-84af-2cdda1a0a234.png" width="80" >
-
- <!-- <a href="https://open.spotify.com/user/djpentakill?si=9d11e8c18d744ad8">
-    <img src="https://user-images.githubusercontent.com/62362994/166345029-65eb7843-232a-498c-b1f2-db88e8ce15e9.png" width="100" >
--->
-  
-</p>
 
  
                                                                                                                              
