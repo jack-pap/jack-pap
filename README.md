@@ -2,9 +2,9 @@
 
 - **Education:**  Computer Science (MEng) with Cyber Security graduate from the [*University of Southampton*](https://www.southampton.ac.uk/) with a First Class Honours degree
 - **Interests:** Game Development, Cyber Security, Front End Development, Software Development, Coding challenges 
-- **Trying to learn:** Relational databases, 3D Game Design, React
+- **Trying to learn:** Full-Stack Web Development
 - **Hobbies:** Gym, Street Fashion, non-fictional literature (Philosophy and Self-Improvement)
-- **Currently Reading:** [Stillness is the Key: An Ancient Strategy for Modern Life](https://www.amazon.co.uk/Stillness-Key-Ancient-Strategy-Modern/dp/1788162064?crid=3HFIJDL5Z650B&dib=eyJ2IjoiMSJ9.xeMCCn3Sp2jX-eE7xTRtm6eSb7dDic5kcJVuv3vkvSdX4dUg30S_4cqED2xsQaRFkXqR78gcq1lqetDvkrvZt9dohSQlvENTgmi6X-CAd86liHhYXTtcJpkFrpk2-sfyJU_50swoMXyPClTvSZVUJ_PcTTMp9GXJfRc2La7vNCdebwrJc_hefd3pZe9CQlsCHGgRjybL1CcBbBlgOa52PMNPZ-ZrsQe9CAQKQD_y2f0.5ygpjTFTr5nA03ojluC3aLBQcvv0I9s4OVQTEfV9fow&dib_tag=se&keywords=stillness+is+the+key&nsdOptOutParam=true&qid=1731003843&sprefix=stillness+is+the+ke%2Caps%2C248&sr=8-1)
+- **Currently Reading:** [1984](https://www.amazon.co.uk/1984-Nineteen-Eighty-Four-George-Orwell/dp/0451524934)
 
 <!-- :blue_heart:	Unordered sub-list. 
 
