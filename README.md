@@ -11,7 +11,7 @@
 :purple_heart: Unordered sub-list. -->
 
 
-
+<!--
 <h2 align="left">:hammer_and_wrench: Projects	</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jack-pap&repo=Summoners-Card&theme=dark )](https://github.com/jack-pap/Summoners-Card)
@@ -25,8 +25,9 @@
 
 <h2 align="left">:hammer_and_wrench: Skills	</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,python,haskell,c,javascript,html,css,react,express,next,jest,mysql,aws,vercel,unity,git&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,python,javascript,html,css,tailwind,react,express,next,jest,mysql,supabase,aws,vercel,unity,git,docker&perline=5)](https://skillicons.dev)
 
+<!--
 <h2 align="left">	:mag_right: Stats </h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-pap&count_private=true&theme=dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
