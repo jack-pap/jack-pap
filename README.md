@@ -4,7 +4,7 @@
 - **Interests:** Game Development, Cyber Security, Front End Development, Software Development
 - **Trying to learn:** Full-Stack Web Development
 - **Hobbies:** Gym, Running, non-fictional literature (Philosophy and Self-Improvement)
-- **Currently Reading:** [1984](https://www.amazon.co.uk/1984-Nineteen-Eighty-Four-George-Orwell/dp/0451524934)
+- **Currently Reading:** [The Pragmatic Programmer](https://www.amazon.co.uk/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/ref=tmm_hrd_swatch_0)
 
 <!-- :blue_heart:	Unordered sub-list. 
 
@@ -25,7 +25,7 @@
 
 <h2 align="left">:hammer_and_wrench: Skills	</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,python,javascript,html,css,tailwind,react,express,next,jest,mysql,supabase,aws,vercel,unity,git,docker&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,tailwind,react,next,jest,fastapi,mysql,supabase,aws,vercel,unity,git,docker&perline=5)](https://skillicons.dev)
 
 <!--
 <h2 align="left">	:mag_right: Stats </h2>
